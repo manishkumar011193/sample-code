@@ -1,0 +1,14 @@
+site_name: 'inventory-update-service'
+repo_url: https://github.com/inventory-service/inventory-update-service
+edit_uri_template: 'edit/main/docs/{path}'
+
+nav:
+  - Home: README.md
+  - How To:
+      - 'How To: Run Locally': how-to/how-to-run-locally.md
+  - Architecture: architecture.md
+  - Handlers: handlers.md
+  - Functions: functions.md
+
+plugins:
+  - techdocs-core

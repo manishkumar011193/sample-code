@@ -1,0 +1,10 @@
+apiVersion: inventory.io/1jhhv2ghhv
+kind: Component
+metadata:
+  name: "inventory-update-service"
+  tags:
+    - inventory
+spec:
+  type: service
+  owner: "ims-data-science"
+  lifecycle: experimental

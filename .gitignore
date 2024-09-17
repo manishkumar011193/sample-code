@@ -1,0 +1,13 @@
+node_modules
+dist
+.terraform
+*.zip
+*.log
+.DS_Store
+.env
+.serverless
+.build
+*.tsbuildinfo
+serverless-output.json
+coverage
+.esbuild

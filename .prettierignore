@@ -1,0 +1,15 @@
+.terraform
+package-lock.json
+node_modules
+dist
+coverage
+.terraform
+*.zip
+*.log
+.DS_Store
+.env
+.serverless
+.build
+*.tsbuildinfo
+serverless-output.json
+.esbuild
